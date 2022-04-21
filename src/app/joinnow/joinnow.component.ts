@@ -9,7 +9,7 @@ export class JoinnowComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
+  ngOnInit(): void {
   }
 
 }
